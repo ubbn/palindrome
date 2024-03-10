@@ -1,3 +1,3 @@
-module ubbn.com/palindrome
+module github.com/ubbn/palindrome
 
 go 1.22.3
